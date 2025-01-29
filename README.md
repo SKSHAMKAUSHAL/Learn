@@ -1,4 +1,4 @@
 # Learn
 i learn git
 <br>
-Author - Sksham kaushal 
+Author - Sksham kaushal (the og)
